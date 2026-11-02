@@ -1,19 +1,20 @@
 # Deuxieme programme d'exercice 
 
-prénom = input("Quel est votre prénom ?")  # Demander et attendre la réponse
-Nom = input("Quel est votre nom complet ? ")  # Demander et attendre la réponse 
-Ville = input("Quelle est votre ville actuelle ? ") # Demander et attendre la réponse
-Langue = input("Quelle est votre langue préférée ? ")
-Objectif = input("Quel est votre objectif final ? ")
+prenom = input("Quel est votre prénom ?")  # Demander et attendre la réponse
+nom_complet = input("Quel est votre nom complet ?")  # Demander et attendre la réponse 
+ville = input("Quelle est votre ville actuelle ?") # Demander et attendre la réponse
+langue_preferee = input("Quelle est votre langue préférée ?")
+objectif = input("Quel est votre objectif final ?")
 print("==============================")
 
 print("FICHE DEVELOPPEUR")
 
 print("==============================")
-print("Prénom :", prénom)
-print("Vile :", Ville)
-print("Langue :", Langue)
-print("Objectif :", Objectif)
+print("Prénom   :", prenom)
+print("Nom      :", nom_complet)
+print("Ville    :", ville)
+print("Langue   :", langue_preferee)
+print("Objectif :", objectif)
 print("==============================")
 
 print("Phase 0 terminée ")
