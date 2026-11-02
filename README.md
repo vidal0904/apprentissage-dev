@@ -12,3 +12,9 @@ ce depot contient mes exercices et mes projets de la découverte de python jusqu
  Fichier : phase0/mini-projet/fiche.py
 
  (Ce programme est essentiellemnt basée sur un reccueil d'information d'une personne , son objectif )
+
+ ### Phase1 : Calcule d'age et de prix
+
+Fichier : phase1/lecon1_variable.py
+
+(Ce programme a permis de calculer l'age ainsi que le prix total d'un achat)
