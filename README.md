@@ -13,8 +13,8 @@ ce depot contient mes exercices et mes projets de la découverte de python jusqu
 
  (Ce programme est essentiellemnt basée sur un reccueil d'information d'une personne , son objectif )
 
- ### Phase1 : Calcule d'age et de prix
+ ### Phase1 - les variables : Calcule d'age et de prix
 
 Fichier : phase1/lecon1_variable.py
 
-(Ce programme a permis de calculer l'age ainsi que le prix total d'un achat)
+(Ce programme a permis de calculer l'age ainsi que le prix total d'un achat après la comprehension de la leçon sur les variables)
