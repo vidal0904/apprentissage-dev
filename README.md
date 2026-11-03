@@ -18,3 +18,9 @@ ce depot contient mes exercices et mes projets de la découverte de python jusqu
 Fichier : phase1/lecon1_variable.py
 
 (Ce programme a permis de calculer l'age ainsi que le prix total d'un achat après la comprehension de la leçon sur les variables)
+
+### Phase 1 - Les conditions : (if-elif-else) et (and-or-not)
+
+Fichier : phase1/lecon2.conditions.py
+
+(ce programme est destiné a calculé le total d'achat et appliquer une reduction en fonction du total d'achat et de la carte)
